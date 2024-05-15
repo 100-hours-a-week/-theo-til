@@ -16,3 +16,5 @@
 24.05.07 HTML -> React 변환 [🌱](https://github.com/100-hours-a-week/theo-til/blob/main/May/2024-05-07.md)
 
 24.05.08 리액트 훅 [🌱](https://github.com/100-hours-a-week/theo-til/blob/main/May/2024-05-08.md)
+
+24.05.09 개발자 특강 [🌱](https://github.com/100-hours-a-week/theo-til/blob/main/May/2024-05-09.md)
