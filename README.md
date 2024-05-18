@@ -20,3 +20,5 @@
 24.05.09 개발자 특강 [🌱](https://github.com/100-hours-a-week/theo-til/blob/main/May/2024-05-09.md)
 
 24.05.10 Java Script File System [🌱](https://github.com/100-hours-a-week/theo-til/blob/main/May/2024-05-10.md)
+
+24.05.13 세션-쿠키 맛보기 [🌱](https://github.com/100-hours-a-week/theo-til/blob/main/May/2024-05-13.md)
